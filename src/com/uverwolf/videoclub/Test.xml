@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Super_nintendo>
+	<juego descripcion="juego de simios">
+	<nombre>Donkey kong</nombre>
+	<tipo>Plataformas</tipo>
+	<dificultad>Media</dificultad>
+	</juego>
+
+	<juego>
+	<nombre descripcion="Plataformero clasico">Megaman</nombre>
+	<tipo>accion</tipo>
+	<dificultad>alta</dificultad>
+	</juego>
+	<juego descripcion="Clasico juego de mario bros">
+	<nombre>Super mario</nombre>
+	<tipo>Plataformas</tipo>
+	<dificultad>Media</dificultad>
+	</juego>
+	<juego descripcion="Juego de rpg">
+	<nombre>Zelda</nombre>
+	<tipo>Rpg</tipo>
+	<dificultad>Media</dificultad>
+	</juego>	
+</Super_nintendo>
